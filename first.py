@@ -4,6 +4,8 @@ def add(a, b):
 def minus(a,b):
     print(a - b)
 
+def test():
+    print('test')
 
 
 def main():
